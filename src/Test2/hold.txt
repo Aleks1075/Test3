@@ -1,4 +1,9 @@
-
-[aleks, a, a, a, a, a, a, a, a]
-[a, a, a, a, a, a, a, a, a]
-[a, a, a, a, a]
+Hold
+Vinderne
+Taberne
+Esbjerg
+Aalborg
+KÃ¸benhavn
+Lyngby
+Esbjerg
+Fyn

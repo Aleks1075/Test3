@@ -2,14 +2,15 @@ package Test2;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Scanner;
 
 public class Team extends Registration
 {
     private int scoredGoalsCount;
     private int receivedGoalsCount;
     private int points;
-
 
     public static void getTeams()
     {
@@ -53,5 +54,3 @@ public class Team extends Registration
         return points;
     }
 }
-
-

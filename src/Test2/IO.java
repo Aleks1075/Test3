@@ -1,11 +1,11 @@
 package Test2;
 
+import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public interface IO {
 
-    void saveData();
-    void loadData();
-    void readData();
-    void readResult();
+    public void getTeamNames();
+    public void getTeamPlayers() throws IOException;
+    public void getTeamScores();
 }
